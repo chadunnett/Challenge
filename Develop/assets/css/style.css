@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/* This is for the different sections */
+/* This is for the different nav bar buttons */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing{
@@ -100,7 +100,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* This is for the bit on the side */
+/* This is for the side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;

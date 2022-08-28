@@ -6,13 +6,8 @@ The challenge was to refactor the existing site to make it more accessible to en
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+    ![screenshot](C:\Users\chadunnett\desktop\challenge\Develop\assets\images\Screenshot 2022-08-26 132444.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](C:\Users\chadunnett\desktop\challenge\Develop\assets\images\Screenshot 2022-08-26 132444.png)
-    ```
 
 ## Credits
 Xandromus- https://github.com/coding-boot-camp/urban-octo-telegram

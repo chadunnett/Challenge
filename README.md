@@ -4,7 +4,6 @@
 The challenge was to refactor the existing site to make it more accessible to ensure that people with disabilities can access it using assisstive technologies. In order to do that I made sure all the links are functioning correctly, increased the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each elemenet or section of the page.
 
 
-## Usage
 
     ![screenshot](C:\Users\chadunnett\desktop\challenge\Develop\assets\images\Screenshot 2022-08-26 132444.png)
 
